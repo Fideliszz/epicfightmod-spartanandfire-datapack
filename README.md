@@ -11,7 +11,7 @@ Datapack for Spartan and Fire weapons to work with Epic Fight mod.
 # How to Install: (Make sure Minecraft is closed)
 
 - `1)` Ensure that both "Epic fight" and "Spartan Weaponry: Ice and Fire" are installed;
-- `2)` Take "SpartanAndFire" folder and copy it to "\%minecraft_folder%\saves\%world_name%\datapacks"
+- `2)` Take "SpartanAndFire" folder and copy it to `\%minecraft_folder%\saves\%world_name%\datapacks`
 - `3)` Enjoy the game :D
 
 Special thanks to @killstreak and the Epic Fight community: https://discord.gg/NbAJwj8RHg
