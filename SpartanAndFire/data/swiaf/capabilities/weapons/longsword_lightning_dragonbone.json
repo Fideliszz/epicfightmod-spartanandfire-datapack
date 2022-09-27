@@ -1,0 +1,7 @@
+{
+  "attributes": {
+    "one_hand": { "armor_negation": 3.8, "impact": 2.7, "max_strikes": 3 },
+    "two_hand": { "armor_negation": 3.8, "impact": 2.7, "max_strikes": 3 }
+  },
+  "type": "longsword"
+}
